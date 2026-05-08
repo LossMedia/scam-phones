@@ -1,6 +1,6 @@
 # Cette liste non exhaustive sert à informer la population française si un numéro peut être frauduleux ou non.
 ### Pour chercher si un numéro est frauduleux dans cette liste, utilisez le raccourci clavier F3 et taper votre numéro, s'il apparait dans la liste, le numéro peut être frauduleux.
-
+```
 09 48 19 26 68 : Suspicion de spam
 05 68 26 24 26 : Suspicion de spam
 05 68 26 24 03 : Suspicion de spam
@@ -25,3 +25,4 @@
 05 68 31 96 16 : Suspicion de spam
 09 48 20 70 66 : Suspicion de spam
 02 70 32 96 45 : Suspicion de spam
+```
