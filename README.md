@@ -1,6 +1,6 @@
 # Cette liste non exhaustive sert à informer la population française si un numéro peut être frauduleux ou non.
 ### Pour chercher si un numéro est frauduleux dans cette liste, utilisez le raccourci clavier F3 et taper votre numéro, s'il apparait dans la liste, le numéro peut être frauduleux.
-## Pour éviter de vous faire arnaquer, nous vous conseillons d'éviter de répondr à des appels qui ne sont pas dans votre liste de contact.
+## Pour éviter de vous faire arnaquer, nous vous conseillons d'éviter de répondre à des appels qui ne sont pas dans votre liste de contact.
 ## Loss Media, Frame, Mcube, et leurs équipes ne supporte en aucun cas, et condamne solennellement les actions de ses entreprises.
 ```
 09 48 19 26 68 : Suspicion de spam
