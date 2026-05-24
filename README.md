@@ -35,3 +35,5 @@
 05 68 26 24 14 : Suspicion de spam
 04 24 26 29 45 : Fraude potentiel
 ```
+
+cette liste n’a pas de license, utilisez là a votre guise.
