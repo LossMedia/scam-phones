@@ -34,6 +34,8 @@
 02 70 27 21 96 : Suspicion de spam
 05 68 26 24 14 : Suspicion de spam
 04 24 26 29 45 : Fraude potentiel
+01 89 61 79 66 : Suspicion de spam
+04 24 11 54 09 : Suspicion de spam
 ```
 
 cette liste n’a pas de license, utilisez là a votre guise.
